@@ -1,0 +1,1045 @@
+/* OBFUSCATED BY CSSOBFUSCATOR.COM at 2025/05/03 07:52:55 */
+[class~=navMenu] a {
+  color: var(--color-dark);
+}
+
+[class~=navMenu] a:hover {
+  background-color: rgba(0, 0, 0, .7);
+}
+
+:root {
+  --color-light: #f2f1f4;
+}
+
+:root {
+  --color-dark: #2c261f;
+}
+
+:root {
+  --color-gold: #d4af37;
+}
+
+*,
+*::before {
+  box-sizing: border-box;
+}
+
+[class~=navMenu] a {
+  text-decoration: none;
+}
+
+*,
+*::before {
+  margin-left: 0;
+}
+
+[class~=container],
+[class~=feature] p,
+[class~=navMenu] a {
+  padding-left: 1rem;
+}
+
+:root {
+  --color-ash: #72746c;
+}
+
+:root {
+  --color-teal: #3c7c74;
+}
+
+:root {
+  --font-title: "MonteCarlo", cursive;
+}
+
+[class~=navMenu] a {
+  padding-bottom: .5rem;
+}
+
+[class~=container],
+*::before {
+  margin-bottom: 0;
+}
+
+*::before {
+  margin-right: 0;
+}
+
+[class~=feature] p,
+[class~=container],
+[class~=navMenu] a {
+  padding-right: 1rem;
+}
+
+[class~=navMenu] a {
+  padding-top: .5rem;
+}
+
+:root {
+  --font-body: "Roboto", sans-serif;
+}
+
+[class~=navMenu] a {
+  border-radius: 4px;
+}
+
+:root {
+  --shadow-lg: rgba(0, 0, 0, .2) 0pt .208333333in 40px;
+}
+
+:root {
+  --shadow-sm: rgba(0, 0, 0, .1) 0in 4px 10px;
+}
+
+[class~=navMenu] a {
+  transition: background-color .3s, color .3s;
+}
+
+*::before,
+[class~=container],
+[class~=intro] p,
+*::after {
+  margin-top: 0;
+}
+
+[class~=intro] h2 {
+  font-size: 2.5rem;
+}
+
+[class~=contact-form] form>div,
+[class~=intro] h2 {
+  margin-bottom: 1rem;
+}
+
+[class~=intro] p {
+  max-width: 8.333333333in;
+}
+
+[class~=intro] p,
+[class~=container] {
+  margin-left: auto;
+}
+
+*,
+[class~=intro] p {
+  margin-bottom: 0;
+}
+
+[class~=container],
+[class~=intro] p {
+  margin-right: auto;
+}
+
+[class~=container] {
+  max-width: 15in;
+}
+
+[class~=intro] p {
+  font-size: 1.1rem;
+}
+
+[class~=contact-form] p,
+[class~=intro] p,
+[class~=feature] p {
+  color: var(--color-ash);
+}
+
+[class~=contact-form] input,
+.feature img,
+[class~=contact-intro] img {
+  width: 100%;
+}
+
+[class~=contact-intro] img,
+[class~=contact-form] label,
+.feature img {
+  display: block;
+}
+
+*::before {
+  padding-left: 0;
+}
+
+[class~=feature] h3 {
+  margin-left: 1rem;
+}
+
+[class~=feature] h3 {
+  margin-bottom: 1rem;
+}
+
+[class~=feature] h3 {
+  margin-right: 1rem;
+}
+
+[class~=feature] h3 {
+  margin-top: 1rem;
+}
+
+[class~=feature] p {
+  padding-bottom: 1.5rem;
+}
+
+*::before,
+[class~=container],
+*::after {
+  padding-bottom: 0;
+}
+
+*::after,
+*::before {
+  padding-right: 0;
+}
+
+[class~=navMenu] a:focus,
+[class~=navMenu] a:hover {
+  color: var(--color-light);
+}
+
+[class~=feature] p,
+*::before,
+*::after,
+[class~=container] {
+  padding-top: 0;
+}
+
+*::after {
+  box-sizing: border-box;
+}
+
+[class~=contact-intro] img {
+  height: auto;
+}
+
+[class~=contact-intro] img {
+  border-radius: 8px;
+}
+
+.header-content {
+  position: relative;
+}
+
+.header-content {
+  z-index: 1;
+}
+
+*::after {
+  margin-left: 0;
+}
+
+[class~=contact-intro] img {
+  box-shadow: var(--shadow-sm);
+}
+
+.header-content {
+  transform: translateY(-50px);
+}
+
+[class~=contact-form] h2 {
+  font-size: 2rem;
+}
+
+[class~=contact-form] p,
+[class~=contact-form] h2,
+.contact-form fieldset {
+  margin-bottom: 1rem;
+}
+
+[class~=contact-form] fieldset legend {
+  font-weight: bold;
+}
+
+[class~=navMenu] a:focus {
+  background-color: rgba(0, 0, 0, .7);
+}
+
+[class~=contact-form] label {
+  margin-bottom: .5rem;
+}
+
+[class~=contact-form] label {
+  font-weight: 700;
+}
+
+*,
+*::after {
+  margin-right: 0;
+}
+
+.logo {
+  font-family: var(--font-title);
+}
+
+[class~=contact-form] input {
+  padding-left: .75rem;
+}
+
+[class~=contact-form] input,
+[class~=navMenu] {
+  padding-bottom: .75rem;
+}
+
+*::after {
+  margin-bottom: 0;
+}
+
+[class~=contact-form] fieldset input[type="radio"] {
+  width: auto;
+}
+
+.logo {
+  font-size: 8rem;
+}
+
+.logo,
+body {
+  color: var(--color-dark);
+}
+
+.logo {
+  text-decoration: none;
+}
+
+*::after {
+  padding-left: 0;
+}
+
+[class~=contact-form] input,
+[class~=contact-form] textarea {
+  padding-right: .75rem;
+}
+
+.logo {
+  text-shadow: -1.5pt -.0625pc .5pc #fff;
+}
+
+[class~=navMenu] {
+  display: inline-flex;
+}
+
+header::before {
+  content: "";
+}
+
+[class~=navMenu],
+[class~=contact-form] textarea,
+[class~=contact-form] input,
+[class~=contact-form] button {
+  padding-top: .75rem;
+}
+
+[class~=navMenu],
+[class~=contact-form] input {
+  border-left-width: .010416667in;
+}
+
+[class~=navMenu],
+[class~=contact-form] input {
+  border-bottom-width: .010416667in;
+}
+
+[class~=navMenu],
+[class~=contact-form] input {
+  border-right-width: .010416667in;
+}
+
+[class~=contact-form] input,
+[class~=navMenu] {
+  border-top-width: .010416667in;
+}
+
+body {
+  font-family: var(--font-body);
+}
+
+[class~=navMenu] {
+  justify-content: space-around;
+}
+
+.navMenu a:focus {
+  outline: .020833333in solid var(--color-teal);
+}
+
+[class~=navMenu] {
+  width: 800px;
+}
+
+[class~=navMenu] {
+  gap: 2rem;
+}
+
+[class~=navMenu],
+[class~=contact-form] input {
+  border-left-style: solid;
+}
+
+[class~=contact-form] input,
+[class~=navMenu] a[class~=active] {
+  border-bottom-style: solid;
+}
+
+body {
+  line-height: 1.6;
+}
+
+[class~=navMenu] {
+  background: rgba(255, 255, 255, .499);
+}
+
+.navMenu a:focus {
+  outline-offset: .020833333in;
+}
+
+[class~=navMenu],
+[class~=contact-form] input {
+  border-right-style: solid;
+}
+
+[class~=navMenu] {
+  backdrop-filter: blur(8px);
+}
+
+[class~=contact-form] input {
+  border-top-style: solid;
+}
+
+[class~=navMenu] {
+  -webkit-backdrop-filter: blur(8px);
+}
+
+[class~=navMenu] {
+  border-radius: 6pt;
+}
+
+body {
+  background: var(--color-light) url("images/egg-shell.png") repeat;
+}
+
+[class~=contact-form] input {
+  border-left-color: var(--color-ash);
+}
+
+[class~=contact-form] input {
+  border-bottom-color: var(--color-ash);
+}
+
+header {
+  background: url("images/swiss-valley.jpg") no-repeat center center;
+}
+
+[class~=navMenu] {
+  padding-left: 2rem;
+}
+
+header::before {
+  position: absolute;
+}
+
+[class~=contact-form] input {
+  border-right-color: var(--color-ash);
+}
+
+[class~=contact-form] input {
+  border-top-color: var(--color-ash);
+}
+
+[class~=contact-form] input {
+  border-image: none;
+}
+
+[class~=navMenu] {
+  padding-right: 2rem;
+}
+
+[class~=contact-form] input,
+[class~=contact-form] textarea {
+  font-size: 1rem;
+}
+
+[class~=contact-form] textarea,
+[class~=contact-form] input {
+  border-radius: 3pt;
+}
+
+header {
+  background-size: cover;
+}
+
+[class~=contact-form] textarea,
+[class~=contact-form] fieldset legend {
+  width: 100%;
+}
+
+[class~=contact-form] textarea {
+  padding-left: .75rem;
+}
+
+[class~=contact-form] textarea,
+[class~=contact-form] button {
+  padding-bottom: .75rem;
+}
+
+[class~=navMenu] a[class~=active] {
+  border-bottom-width: 3px;
+}
+
+header {
+  height: 420pt;
+}
+
+header {
+  display: flex;
+}
+
+header {
+  align-items: center;
+}
+
+[class~=navMenu] a[class~=active] {
+  border-bottom-color: var(--color-teal);
+}
+
+header {
+  justify-content: center;
+}
+
+[class~=contact-form] textarea {
+  border-left-width: .010416667in;
+}
+
+header {
+  text-align: center;
+}
+
+[class~=contact-form] textarea {
+  border-bottom-width: .010416667in;
+}
+
+[class~=contact-form] textarea {
+  border-right-width: .010416667in;
+}
+
+[class~=navMenu] a[class~=active] {
+  border-image: none;
+}
+
+[class~=contact-form] textarea {
+  border-top-width: .010416667in;
+}
+
+[class~=navMenu],
+[class~=contact-form] textarea {
+  border-bottom-style: solid;
+}
+
+header::before {
+  inset: 0;
+}
+
+[class~=contact-form] textarea {
+  border-left-style: solid;
+}
+
+[class~=contact-form] textarea {
+  border-right-style: solid;
+}
+
+[class~=contact-form] fieldset legend {
+  margin-bottom: .5rem;
+}
+
+[class~=navMenu],
+[class~=contact-form] textarea {
+  border-top-style: solid;
+}
+
+[class~=contact-form] textarea {
+  border-left-color: var(--color-ash);
+}
+
+[class~=contact-form] textarea {
+  border-bottom-color: var(--color-ash);
+}
+
+[class~=contact-form] textarea {
+  border-right-color: var(--color-ash);
+}
+
+header {
+  position: relative;
+}
+
+[class~=contact-form] textarea {
+  border-top-color: var(--color-ash);
+}
+
+[class~=contact-form] textarea {
+  border-image: none;
+}
+
+[class~=navMenu] {
+  border-left-color: rgba(0, 0, 0, .1);
+}
+
+[class~=contact-form] button {
+  padding-left: 1.5rem;
+}
+
+[class~=navMenu] {
+  border-bottom-color: rgba(0, 0, 0, .1);
+}
+
+* {
+  margin-top: 0;
+}
+
+[class~=navMenu] {
+  border-right-color: rgba(0, 0, 0, .1);
+}
+
+[class~=navMenu] {
+  border-top-color: rgba(0, 0, 0, .1);
+}
+
+[class~=contact-form] button {
+  padding-right: 1.5rem;
+}
+
+[class~=contact-form] button {
+  font-size: 1rem;
+}
+
+input:invalid {
+  border-left-color: red;
+}
+
+[class~=contact-form] button {
+  border-left-width: medium;
+}
+
+[class~=contact-form] button {
+  border-bottom-width: medium;
+}
+
+[class~=navMenu] {
+  border-image: none;
+}
+
+[class~=contact-form] button {
+  border-right-width: medium;
+}
+
+[class~=contact-form] button {
+  border-top-width: medium;
+}
+
+[class~=navMenu] {
+  font-size: 1.25rem;
+}
+
+input:invalid {
+  border-bottom-color: red;
+}
+
+[class~=navMenu] {
+  font-weight: 600;
+}
+
+[class~=navMenu] {
+  box-shadow: var(--shadow-sm);
+}
+
+[class~=contact-form] button {
+  border-left-style: none;
+}
+
+[class~=navMenu] {
+  margin-top: 5rem;
+}
+
+[class~=contact-form] button {
+  border-bottom-style: none;
+}
+
+[class~=contact-form] button {
+  border-right-style: none;
+}
+
+[class~=contact-form] button {
+  border-top-style: none;
+}
+
+[class~=contact-form] button {
+  border-left-color: currentColor;
+}
+
+[class~=contact-form] button:focus,
+.contact-form button:hover {
+  background: var(--color-teal);
+}
+
+[class~=contact-form] button {
+  border-bottom-color: currentColor;
+}
+
+[class~=contact-form] button {
+  border-right-color: currentColor;
+}
+
+input:invalid {
+  border-right-color: red;
+}
+
+[class~=contact-form] button {
+  border-top-color: currentColor;
+}
+
+[class~=contact-form] button {
+  border-image: none;
+}
+
+header::before {
+  z-index: 0;
+}
+
+[class~=contact-form] button {
+  background: var(--color-dark);
+}
+
+input:invalid {
+  border-top-color: red;
+}
+
+[class~=intro],
+.features {
+  margin-left: auto;
+}
+
+.contact-form button:hover,
+[class~=contact-form] button:focus,
+footer,
+[class~=contact-form] button {
+  color: var(--color-light);
+}
+
+[class~=contact-form] button {
+  border-radius: 3pt;
+}
+
+.features,
+[class~=intro] {
+  margin-bottom: 4rem;
+}
+
+[class~=contact-form] button {
+  cursor: pointer;
+}
+
+[class~=contact-form] button {
+  transition: background .2s;
+}
+
+footer {
+  background-color: var(--color-dark);
+}
+
+.features,
+[class~=intro] {
+  margin-right: auto;
+}
+
+.features,
+[class~=contact-form] fieldset label,
+[class~=contact-form] fieldset {
+  display: flex;
+}
+
+[class~=intro] {
+  margin-top: 6rem;
+}
+
+.features,
+[class~=contact-form] fieldset {
+  gap: 2rem;
+}
+
+footer,
+[class~=intro] {
+  text-align: center;
+}
+
+[class~=contact-form] fieldset,
+[class~=contact-form] fieldset label {
+  align-items: center;
+}
+
+[class~=intro] {
+  padding-left: 2rem;
+}
+
+[class~=intro] {
+  padding-bottom: 2rem;
+}
+
+[class~=intro] {
+  padding-right: 2rem;
+}
+
+[class~=intro] {
+  padding-top: 2rem;
+}
+
+[class~=contact-form] fieldset {
+  border-left-width: medium;
+}
+
+[class~=contact-form] fieldset {
+  border-bottom-width: medium;
+}
+
+footer,
+*,
+[class~=contact-form] fieldset {
+  padding-left: 0;
+}
+
+.features {
+  flex-wrap: wrap;
+}
+
+[class~=contact-form] fieldset,
+* {
+  padding-bottom: 0;
+}
+
+[class~=contact-form] fieldset {
+  border-right-width: medium;
+}
+
+[class~=contact-form] fieldset {
+  border-top-width: medium;
+}
+
+footer {
+  padding-bottom: 1.5rem;
+}
+
+[class~=contact-form] fieldset {
+  border-left-style: none;
+}
+
+[class~=contact-form] fieldset {
+  border-bottom-style: none;
+}
+
+.features {
+  justify-content: center;
+}
+
+[class~=contact-form] fieldset {
+  border-right-style: none;
+}
+
+[class~=contact-form] fieldset {
+  border-top-style: none;
+}
+
+[class~=contact-form] fieldset {
+  border-left-color: currentColor;
+}
+
+[class~=contact-form] fieldset {
+  border-bottom-color: currentColor;
+}
+
+[class~=contact-form] fieldset,
+footer,
+* {
+  padding-right: 0;
+}
+
+footer {
+  padding-top: 1.5rem;
+}
+
+[class~=contact-form] fieldset {
+  border-right-color: currentColor;
+}
+
+footer p,
+[class~=contact-form] fieldset input[type="radio"],
+[class~=contact-form] fieldset {
+  margin-left: 0;
+}
+
+[class~=contact-form] fieldset {
+  border-top-color: currentColor;
+}
+
+[class~=contact-form] fieldset {
+  border-image: none;
+}
+
+[class~=contact-form] input:focus,
+[class~=contact-form] textarea:focus {
+  outline: .125pc solid var(--color-teal);
+}
+
+.features {
+  margin-top: 4rem;
+}
+
+[class~=feature] {
+  background: var(--color-light);
+}
+
+[class~=feature] {
+  border-radius: 1pc;
+}
+
+[class~=feature],
+[class~=contact-form] {
+  box-shadow: var(--shadow-sm);
+}
+
+*,
+[class~=contact-form] fieldset {
+  padding-top: 0;
+}
+
+[class~=feature] {
+  width: 100%;
+}
+
+[class~=contact-form] fieldset {
+  margin-bottom: 1rem;
+}
+
+footer p,
+[class~=contact-form] fieldset,
+[class~=contact-form] fieldset input[type="radio"] {
+  margin-right: 0;
+}
+
+[class~=feature] {
+  max-width: 6.25in;
+}
+
+[class~=contact-form] fieldset {
+  margin-top: 1rem;
+}
+
+footer {
+  margin-top: 4rem;
+}
+
+[class~=feature] {
+  text-align: center;
+}
+
+[class~=feature] {
+  overflow: hidden;
+}
+
+.contact-content {
+  display: grid;
+}
+
+.contact-content {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.contact-content {
+  gap: 2rem;
+}
+
+.contact-content {
+  align-items: start;
+}
+
+.contact-content {
+  margin-left: auto;
+}
+
+.contact-content {
+  margin-bottom: 2rem;
+}
+
+.contact-content {
+  margin-right: auto;
+}
+
+.contact-content {
+  margin-top: 2rem;
+}
+
+.contact-content {
+  max-width: 1200px;
+}
+
+[class~=contact-form] {
+  background-color: rgba(255, 255, 255, .85);
+}
+
+[class~=contact-form] fieldset label {
+  gap: .5rem;
+}
+
+[class~=contact-form] fieldset label {
+  font-weight: normal;
+}
+
+[class~=contact-form] {
+  margin-top: 100px;
+}
+
+footer p {
+  margin-bottom: .5rem;
+}
+
+[class~=contact-form] {
+  justify-self: stretch;
+}
+
+[class~=contact-form] {
+  padding-left: 2rem;
+}
+
+[class~=contact-form] {
+  padding-bottom: 2rem;
+}
+
+[class~=contact-form] {
+  padding-right: 2rem;
+}
+
+[class~=contact-form] {
+  padding-top: 2rem;
+}
+
+[class~=contact-form] {
+  border-radius: .083333333in;
+}
+
+[class~=contact-form] fieldset input[type="radio"] {
+  margin-bottom: 0;
+}
+
+[class~=contact-form] {
+  display: flex;
+}
+
+footer p {
+  margin-top: .5rem;
+}
+
+[class~=contact-form] {
+  flex-direction: column;
+}
+
+[class~=contact-form] fieldset label {
+  margin-bottom: 0;
+}
+
+[class~=contact-form] fieldset input[type="radio"] {
+  margin-top: 0;
+}

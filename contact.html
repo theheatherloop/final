@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="author" content="H.Shultz">
+    <meta name="description"
+      content="Relax, explore, and enjoy at Alpine Escape Resort—your Swiss Alps getaway with spa, skiing &amp; hiking.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact – Alpine Escape Resort</title>
+    <link rel="icon" href="images/favicon.png" type="image/png">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=MonteCarlo&display=swap"
+      rel="stylesheet">
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+  <header>
+    <div class="header-content">
+      <h1 class="logo">Alpine Escape Resort</h1>
+      <nav class="navMenu">
+        <a href="index.html">Home</a>
+        <a href="#">Accommodations</a>
+        <a href="contact.html" class="active">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+    <main class="container">
+      <div class="contact-content">
+        <section class="contact-intro">
+          <h2>Contact Us</h2>
+          <p>Have questions? We’d love to help you plan your dream getaway! Fields marked with an asterisk (*) are
+            required.</p>
+          <img src="images/swiss-peak.jpg" alt="Majestic Swiss mountain peak" width="800" height="533">
+        </section>
+        <div class="contact-form">
+          
+
+          <form action="https://wp.zybooks.com/form-viewer.php" method="post">
+            <div>
+              <label for="full-name">Full Name *</label>
+              <input type="text" id="full-name" name="full-name" required>
+            </div>
+
+            <div>
+              <label for="email">Email Address *</label>
+              <input type="email" id="email" name="email" required>
+            </div>
+
+            <div>
+              <label for="phone">Phone Number *</label>
+              <input type="tel" id="phone" name="phone" required>
+            </div>
+
+            <fieldset>
+              <legend>Preferred Contact Method *</legend>
+              <label><input type="radio" name="contact-method" value="email" required> Email</label>
+              <label><input type="radio" name="contact-method" value="phone"> Phone</label>
+            </fieldset>
+
+            <div>
+              <label for="comments">Comments *</label>
+              <textarea id="comments" name="comments" rows="5" required></textarea>
+            </div>
+
+            <div>
+              <button type="submit">Submit</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <p>&copy; 2023 – Alpine Escape Resort</p>
+      <p>This site is for educational purposes only</p>
+    </footer>
+  </body>
+
+</html>
